@@ -1,4 +1,4 @@
-# Analysis-of-Superstore-Analysis
+# Analysis-of-Superstore-Dataset
 
 ### Questions
 - Top Sales per Customer
